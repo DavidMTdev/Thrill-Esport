@@ -1,0 +1,70 @@
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.thrill-jumbotron {
+	padding: 4rem 0;
+	border-radius: .0;
+	margin-bottom: 0;
+	width: 150vw;
+}
+
+.thrill-jumbotron-left {
+	transform: translateX(-20%) rotate(-6deg);
+}
+
+.thrill-jumbotron-right {
+	transform: translateX(-20%) rotate(6deg);
+}
+
+.jumbotron-hidden {
+	overflow: hidden;
+	padding: 90px 0;
+}
+
+.rotate-0-left {
+	transform: translateX(5%) rotate(6deg);
+}
+
+.rotate-0-right {
+	transform: translateX(5%) rotate(-6deg);
+}
+
+.card {
+	border: none;
+	width: 240px;
+}
+
+.founder-name {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+}
+
+@media (max-width: 900px) {
+	.display-4 {
+		font-size: 48px;
+	}
+
+	.thrill-jumbotron {
+		width: 100vw;
+	}
+
+	.thrill-jumbotron-left {
+		transform: translateX(0) rotate(0deg);
+	}
+
+	.thrill-jumbotron-right {
+		transform: translateX(0) rotate(0deg);
+	}
+
+	.rotate-0-left {
+		transform: rotate(0deg);
+	}
+
+	.rotate-0-right {
+		transform: rotate(0deg);
+	}
+}

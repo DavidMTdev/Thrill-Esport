@@ -1,0 +1,134 @@
+@font-face {
+	font-family: "PaybAck Fonte";
+	src: url("../fonts/PaybAck.ttf");
+}
+
+main {
+	margin-top: 48px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+.display-1,
+.display-2,
+.display-3,
+.display-4 {
+	font-family: "PaybAck Fonte";
+	letter-spacing: .15rem;
+}
+
+.PaybAck {
+	font-family: "PaybAck Fonte";
+	letter-spacing: .25rem;
+}
+
+.thrill-nav {
+	letter-spacing: .15rem;
+}
+
+/*      nav      */
+
+.navbar-dark .navbar-nav .nav-link {
+	color: #ffffff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+	color: #e2e2e4;
+}
+
+/*      nav      */
+
+.thrill-bg-blue {
+	background: #3154a6;
+}
+
+.thrill-bg-white {
+	background: #ffffff;
+}
+
+.thrill-bg-light {
+	background: #cecece;
+}
+
+.thrill-bg-gray {
+	background: #848484;
+}
+
+.thrill-bg-dark {
+	background: #000000;
+}
+
+.thrill-bg-dark-blue {
+	background: #16244b;
+}
+
+.thrill-blue {
+	color: #3154a6;
+}
+
+.thrill-white {
+	color: #ffffff;
+}
+
+.thrill-light {
+	color: #cecece;
+}
+
+.thrill-gray {
+	color: #848484;
+}
+
+.thrill-dark {
+	color: #000000;
+}
+
+.thrill-dark-blue {
+	color: #16244b;
+}
+
+/*      Footer      */
+
+footer a.thrill-light:hover {
+	color: #cecece;
+	text-decoration: underline;
+}
+
+footer .row {
+	margin: 0;
+}
+
+/*      Footer      */
+
+.btn-blue {
+	color: #fff;
+	background-color: #3154a6;
+	border-color: #3154a6;
+}
+
+.btn-blue:hover {
+	color: #fff;
+	background-color: #2b4990;
+	border-color: #2b4990;
+}
+
+.thrill-text-shadow-sm {
+	text-shadow: 0 .125rem .25rem #00000013 !important;
+}
+
+.thrill-text-shadow {
+	text-shadow: 0 .5rem 1rem #00000026 !important;
+}
+
+.thrill-text-shadow-lg {
+	text-shadow: 0 3rem 6rem #0000002d !important;
+}

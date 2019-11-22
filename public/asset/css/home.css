@@ -1,0 +1,52 @@
+/*      main      */
+
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/* Section Header */
+
+section#header .jumbotron,
+section#matchs .jumbotron {
+	border-radius: 0;
+	margin-bottom: 0;
+}
+
+/* Section Match */
+
+section#matchs .thrill-bg-shadow {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #0000008e;
+	opacity: 0.4;
+}
+
+section#matchs .col-md-8.themed-grid-col .col-md-12 .row .col-md-4 {
+	flex: 0 0 33.333333%;
+	max-width: 33.333333%;
+}
+
+/* Section News */
+
+section#news .carousel-control-prev {
+	transform: rotate(180deg);
+	width: 30px;
+	height: 30px;
+	top: calc(100% - 26px);
+	left: 40%;
+}
+
+section#news .carousel-control-next {
+	width: 30px;
+	height: 30px;
+	top: calc(100% - 26px);
+	right: 40%;
+}
+
+section#news .container .row .carousel-indicators {
+	position: static;
+}
