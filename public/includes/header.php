@@ -1,7 +1,7 @@
 <header>
     <nav class="navbar navbar-expand-lg fixed-top py-1 navbar-dark PaybAck thrill-bg-blue thrill-nav">
         <div class="container d-flex flex-md-row justify-content-between">
-            <a class="navbar-brand thrill-white align-center" href="index">
+            <a class="navbar-brand thrill-white align-center" href="index.php">
                 <img src="/asset/img/logo/Logo_transparence_v2.png" width="32" height="32" class="d-inline-block align-top" alt="Thrill Esport Culb Logo official">
                 Thrill Esport
             </a>
@@ -11,25 +11,25 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="about">Presentation</a>
+                        <a class="nav-link" href="about.php">Presentation</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="comingsoon">Actualite</a>
+                        <a class="nav-link" href="comingsoon.php">Actualite</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="comingsoon">Equipe</a>
+                        <a class="nav-link" href="comingsoon.php">Equipe</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Competitions
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="comingsoon">Palmares</a>
-                            <a class="dropdown-item" href="index#matchs">Resultats</a>
+                            <a class="dropdown-item" href="comingsoon.php">Palmares</a>
+                            <a class="dropdown-item" href="index.php#matchs">Resultats</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="comingsoon">Sponsors</a>
+                        <a class="nav-link" href="comingsoon.php">Sponsors</a>
                     </li>
                 </ul>
             </div>
