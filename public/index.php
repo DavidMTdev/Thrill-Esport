@@ -27,11 +27,8 @@
                 <div class="container">
                     <h1 class="display-3 font-weight-bold py-5 thrill-text-shadow-lg thrill-white">Thrill Esport Club
                     </h1>
-                    <p class="w-75 py-2 ml-4 thrill-text-shadow-sm thrill-light">This is a template for a simple
-                        marketing
-                        or informational
-                        website. It includes a large callout called a jumbotron and three supporting pieces of content.
-                        Use it as a starting point to create something more unique.</p>
+                    <p class="w-75 py-2 ml-4 thrill-text-shadow-sm thrill-light">Thrill eSport Club est un projet concocté par un groupe de 5 amis dans une perspective de se
+                        professionnaliser sur la scène du sport électronique français (eSport).</p>
                 </div>
                 <!-- /.container -->
             </div>
@@ -48,7 +45,7 @@
                             <p>Thrill eSport Club, fondée 28 mai 2019, est une association sous forme juridique de loi 1901. Fondée par 5 amis, voici notre histoire. </p>
                         </div>
                         <div>
-                            <a class="btn btn-blue" href="about.html#presentation" role="button">View details
+                            <a class="btn btn-blue" href="about.php#presentation" role="button">View details
                                 &raquo;</a>
                         </div>
                     </div>
@@ -60,12 +57,12 @@
                             <p>Thrill eSport Club, ayant pour objectif de naviguer sur plusieurs jeux ainsi que sur l’actualité eSport.</p>
                         </div>
                         <div>
-                            <a class="btn btn-blue" href="about.html#ambitions" role="button">View details &raquo;</a>
+                            <a class="btn btn-blue" href="about.php#ambitions" role="button">View details &raquo;</a>
                         </div>
                     </div>
                     <!-- /.col-lg-4 -->
                     <div class="col-lg-4 text-center">
-                        <img src="/asset/img/icon/icons8-évaluation-100.png" alt="Placeholder: 140x140" width="140" height="140">
+                        <img src="/asset/img/icon/icons8-evaluation-100.png" alt="Placeholder: 140x140" width="140" height="140">
                         <h2 class="thrill-blue">Valeurs</h2>
                         <div class="pt-5 thrill-gray" style="height: 250px">
                             <p>Fidélité</p>
@@ -73,7 +70,7 @@
                             <p>Sérieux</p>
                         </div>
                         <div>
-                            <a class="btn btn-blue" href="about.html#values" role="button">View details &raquo;</a>
+                            <a class="btn btn-blue" href="about.php#values" role="button">View details &raquo;</a>
                         </div>
                         <!-- /.col-lg-4 -->
                     </div>
