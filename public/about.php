@@ -83,7 +83,7 @@
                                     <div class="card-body thrill-bg-light">
                                         <div class="text-center">
                                             <div class="h2 thrill-blue">Directeur Marketing</div>
-                                            <div class="thrill-white founder-name">Nicolas Banto</div>
+                                            <div class="thrill-white founder-name">Nicolas Bento</div>
                                         </div>
                                     </div>
                                 </div>
