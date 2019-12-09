@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-lg fixed-top py-1 navbar-dark PaybAck thrill-bg-blue thrill-nav">
         <div class="container d-flex flex-md-row justify-content-between">
             <a class="navbar-brand thrill-white align-center" href="index.php">
-                <img src="/asset/img/logo/Logo_transparence_v2.png" width="32" height="32" class="d-inline-block align-top" alt="Thrill Esport Culb Logo official">
+                <img src="/asset/img/logo/v2/Logo_transparence_v2.png" width="32" height="32" class="d-inline-block align-top" alt="Thrill Esport Culb Logo official">
                 Thrill Esport
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -25,7 +25,7 @@
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="comingsoon.php">Palmares</a>
-                            <a class="dropdown-item" href="index.php#matchs">Resultats</a>
+                            <a class="dropdown-item" href="index.php">Resultats</a>
                         </div>
                     </li>
                     <li class="nav-item">
