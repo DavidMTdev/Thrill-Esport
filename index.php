@@ -2,7 +2,7 @@
 
 <section id="header">
     <div class="jumbotron" style="
-            background-image: url('/asset/img/wallpaperflare.com_wallpaper (6).jpg'); background-position: center; background-size: cover;">
+            background-image: url('/asset/img/background/home_page.jpg'); background-position: center; background-size: cover;">
         <div class="container">
             <h1 class="display-3 font-weight-bold py-5 thrill-text-shadow-lg thrill-white">Thrill Esport Club
             </h1>

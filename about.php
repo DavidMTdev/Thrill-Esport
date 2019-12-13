@@ -16,7 +16,7 @@
     </div>
     <div class="jumbotron-hidden">
         <div class="thrill-jumbotron thrill-jumbotron-left" style="
-            background-image: url('/asset/img/wallpaperflare.com_wallpaper (1).jpg'); background-position: center; background-size: cover;">
+            background-image: url('/asset/img/background/about_page_5.jpg'); background-position: center; background-size: cover;">
             <div class="container rotate-0-left py-4">
                 <h4 class="h3 text-uppercase font-weight-bold thrill-white">
                     Fondateurs
@@ -121,7 +121,7 @@
 <section id="ambitions">
     <div class="jumbotron-hidden">
         <div class="thrill-jumbotron thrill-jumbotron-right" style="
-                    background-image: url('/asset/img/wallpaperflare.com_wallpaper (3).jpg'); background-position: center; background-size: cover;">
+                    background-image: url('/asset/img/background/about_page_1.jpg'); background-position: center; background-size: cover;">
             <div class="container rotate-0-right">
                 <h3 class="display-4 text-uppercase font-weight-bold thrill-white">
                     AMBITIONS
@@ -147,19 +147,19 @@
     <div class="container py-5">
         <div class="row">
             <div class="col-lg-4 text-center">
-                <img class="rounded-circle" src="/asset/img/wallpaperflare.com_wallpaper (14).jpg" alt="Placeholder: 140x140" width="200" height="200">
+                <img class="rounded-circle" src="/asset/img/background/about_page_2.jpg" alt="Placeholder: 140x140" width="200" height="200">
                 <h2 class="thrill-blue pt-5">FIDELITE</h2>
                 <p class="pt-5 thrill-gray">La fidélité mutuellement est une valeur fondamentale. Cela nous permettra de grandir en tant qu’association tout en permettant de faire grandir les parties prenantes qui collaboreront avec nous. </p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4 text-center">
-                <img class="rounded-circle" src="/asset/img/wallpaperflare.com_wallpaper (12).jpg" alt="Placeholder: 140x140" width="200" height="200">
+                <img class="rounded-circle" src="/asset/img/background/about_page_3.jpg" alt="Placeholder: 140x140" width="200" height="200">
                 <h2 class="thrill-blue pt-5">Confiance</h2>
                 <p class="pt-5 thrill-gray">Notre recrutement et notre management se basent entièrement sur la confiance de notre staff ainsi que les joueurs qui voyagerons avec nous. La confiance est la valeur maîtresse de toutes les relations entre l’association et ses parties prenantes. En partageant cette valeur, nous pourrons construire des relations saines. </p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4 text-center">
-                <img class="rounded-circle" src="/asset/img/wallpaperflare.com_wallpaper (17).jpg" alt="Placeholder: 140x140" width="200" height="200">
+                <img class="rounded-circle" src="/asset/img/background/about_page_4.jpg" alt="Placeholder: 140x140" width="200" height="200">
                 <h2 class="thrill-blue pt-5">serieux</h2>
                 <p class="pt-5 thrill-gray">Le sérieux est notre troisième valeur fondatrice. Cela se traduit notamment dans le travail ainsi que dans l’engagement vis-à-vis de l’association. En ayant des joueurs ainsi qu’ un staff sérieux, rigoureux et assidu dans leurs tâches, l’association pourra évoluer et donc grandir de son côté tout en apportant son savoir-faire en terme d’accompagnement, de gestion et de suivi</p>
                 <!-- /.col-lg-4 -->
