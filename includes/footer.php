@@ -38,7 +38,7 @@
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
-<?php if ($_SERVER["REQUEST_URI"] === "/dev/development") : ?>
+<?php if ($_SERVER["SCRIPT_NAME"] === "/dev/development.php") : ?>
     <script src="/asset/js/comingsoon.js"></script>
 <?php endif; ?>
 

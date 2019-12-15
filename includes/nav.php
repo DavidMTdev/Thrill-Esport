@@ -10,10 +10,10 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="/about">Presentation</a>
+                    <a class="nav-link" href="/about.php">Presentation</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/dev/development">Actualite</a>
+                    <a class="nav-link" href="/dev/development.php">Actualite</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -28,12 +28,12 @@
                         Competitions
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="/dev/development">Palmares</a>
-                        <a class="dropdown-item" href="/dev/development">Resultats</a>
+                        <a class="dropdown-item" href="/dev/development.php">Palmares</a>
+                        <a class="dropdown-item" href="/dev/development.php">Resultats</a>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/dev/development">Sponsors</a>
+                    <a class="nav-link" href="/dev/development.php">Sponsors</a>
                 </li>
             </ul>
         </div>
