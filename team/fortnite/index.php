@@ -31,8 +31,8 @@
         </h3>
     </div>
     <div class="container py-5">
-        <div class="row mb-5">
-            <div class="col-4">
+        <div class="row">
+            <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
                         <h3 class="font h4 thrill-white">Neziõ</h3>
@@ -57,7 +57,7 @@
                 </div>
             </div>
             <!-- /.col -->
-            <div class="col-4">
+            <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
                         <h3 class="font h4 thrill-white">Fish</h3>
@@ -85,7 +85,7 @@
                 </div>
             </div>
             <!-- /.col -->
-            <div class="col-4">
+            <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
                         <h3 class="font h4 thrill-white">Hermes</h3>
@@ -112,8 +112,8 @@
             <!-- /.col -->
         </div>
         <!-- /.row -->
-        <div class="row mb-5">
-            <div class="col-4">
+        <div class="row">
+            <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
                         <h3 class="font h4 thrill-white">Djo</h3>
@@ -138,7 +138,7 @@
                 </div>
             </div>
             <!-- /.col -->
-            <div class="col-4">
+            <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
                         <h3 class="font h4 thrill-white">Rehy</h3>
@@ -169,7 +169,7 @@
                 </div>
             </div>
             <!-- /.col -->
-            <div class="col-4">
+            <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
                         <h3 class="font h4 thrill-white">Chips</h3>
@@ -196,9 +196,8 @@
             <!-- /.col -->
         </div>
         <!-- /.row -->
-
-        <div class="row mb-5">
-            <div class="col-4">
+        <div class="row">
+            <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
                         <h3 class="font h4 thrill-white">Alpha</h3>
@@ -226,11 +225,8 @@
                 </div>
             </div>
             <!-- /.col -->
-
-            <!-- /.col -->
         </div>
         <!-- /.row -->
-
     </div>
 </section>
 

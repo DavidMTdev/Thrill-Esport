@@ -145,4 +145,8 @@
 	.shadow {
 		height: 60vh;
 	}
+
+	.card-player {
+		margin: auto;
+	}
 }
