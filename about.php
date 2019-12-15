@@ -89,7 +89,7 @@
     </div>
     <div class="container">
         <h4 class="h3 text-uppercase font-weight-bold thrill-blue ">
-            projet
+            logo
         </h4>
         <div class="row py-4">
             <div class="col-md-4 d-flex justify-content-center">
@@ -169,41 +169,4 @@
         <!-- /.container -->
 </section>
 
-</main>
-<footer class="py-5 pt-md-5 border-top thrill-bg-blue">
-    <div class="row">
-        <div class="col-12 col-md text-center">
-            <h5 class="thrill-white">Menu</h5>
-            <ul class="list-unstyled text-small text-center">
-                <li><a class="thrill-light" href="#">A Propos</a></li>
-                <li><a class="thrill-light" href="#">Actualite</a></li>
-                <li><a class="thrill-light" href="#">Equipe</a></li>
-                <li><a class="thrill-light" href="#">Macths</a></li>
-                <li><a class="thrill-light" href="#">Palmares</a></li>
-                <li><a class="thrill-light" href="#">Sponsors</a></li>
-            </ul>
-        </div>
-        <div class="col-12 col-md text-center">
-            <h5 class="thrill-white">Partenaires</h5>
-            <ul class="list-unstyled text-small">
-                <li><a class="thrill-light" href="#">Ynov</a></li>
-                <li><a class="thrill-light" href="#">Ynov</a></li>
-                <li><a class="thrill-light" href="#">Ynov</a></li>
-                <li><a class="thrill-light" href="#">Ynov</a></li>
-            </ul>
-        </div>
-        <div class="col-12 col-md text-center">
-            <h5 class="thrill-white">A Propos</h5>
-            <ul class="list-unstyled text-small">
-                <li><a class="thrill-light" href="#">Objectif</a></li>
-                <li><a class="thrill-light" href="#">Contact</a></li>
-                <li><a class="thrill-light" href="#">Terms</a></li>
-            </ul>
-        </div>
-        <div class="col-12 col-md text-center">
-            <img class="mb-2" src="/asset/img/logo/Logo_transparence_v2.png" alt="" width="128" height="128">
-            <small class="d-block mb-3 thrill-light">Copyright &copy; Your Thrill Esport 2017-2019</small>
-        </div>
-    </div>
-
-    <?php require_once("includes/footer.php") ?>
+<?php require_once("includes/footer.php") ?>
