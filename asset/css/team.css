@@ -10,6 +10,14 @@
 	background-image: url("/asset/img/fortnite/background/bg-fortnite-1.jpg");
 }
 
+.call-of-duty {
+	background-image: url("/asset/img/callofduty/background/background-cod.jpg");
+}
+
+.fifa {
+	background-image: url("/asset/img/fifa/background/background-fifa.jpg");
+}
+
 .shadow {
 	position: absolute;
 	top: 0;

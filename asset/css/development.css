@@ -1,5 +1,5 @@
 .thrill-background {
-	background: url(/asset/img/firewatch-forest-landscape-in-game-minimalistic.jpg) no-repeat;
+	background: url("/asset/img/background/development_page.jpg") no-repeat;
 	background-size: cover;
 	height: calc(100vh - 50px);
 }

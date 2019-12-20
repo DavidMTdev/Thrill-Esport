@@ -47,7 +47,7 @@
                     </div>
                     <div class="social">
                         <a href="https://twitter.com/ImNezio">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                     </div>
                     <div class="player-item">
@@ -60,7 +60,7 @@
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Fish</h3>
+                        <h3 class="font h4 thrill-white">Julius</h3>
                     </div>
                     <div class="name">
                         <p class="thrill-gray">PERROT William</p>
@@ -72,10 +72,13 @@
                     </div>
                     <div class="social">
                         <a href="https://twitter.com/SocreamD">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                         <a href="https://www.twitch.tv/thrill_fiish">
-                            <img src="/asset/img/icon/Twitch/white.png" alt="">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
+                        </a>
+                        <a href="https://www.youtube.com/channel/UChTyryyBsdz2T8mh7oBzR8w">
+                            <img src="/asset/img/icon/Youtube/white.png" alt="icon youtube">
                         </a>
                     </div>
                     <div class="player-item">
@@ -100,7 +103,7 @@
                     </div>
                     <div class="social">
                         <a href="https://twitter.com/FB_Hermes">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                     </div>
                     <div class="player-item">
@@ -119,7 +122,7 @@
                         <h3 class="font h4 thrill-white">Djo</h3>
                     </div>
                     <div class="name">
-                        <p class="thrill-gray">ALFONSO Jordan</p>
+                        <p class="thrill-gray">Afonso Jordan</p>
                     </div>
                     <div class="role">
                         <div class="line-left"></div>
@@ -128,7 +131,13 @@
                     </div>
                     <div class="social">
                         <a href="https://twitter.com/BlkDjo">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
+                        <a href="https://www.twitch.tv/thrilldjo">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
+                        </a>
+                        <a href="https://www.youtube.com/channel/UClBgttaaN7SVx3cxo5RXy-Q/">
+                            <img src="/asset/img/icon/Youtube/white.png" alt="icon youtube">
                         </a>
                     </div>
                     <div class="player-item">
@@ -153,13 +162,13 @@
                     </div>
                     <div class="social">
                         <a href="https://twitter.com/DLVR78">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                         <a href="https://www.twitch.tv/rehyou78">
-                            <img src="/asset/img/icon/Twitch/white.png" alt="">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
                         </a>
                         <a href="https://www.youtube.com/channel/UCNTxzaNOI35uILOHNBBEC8w">
-                            <img src="/asset/img/icon/Youtube/white.png" alt="">
+                            <img src="/asset/img/icon/Youtube/white.png" alt="icon youtube">
                         </a>
                     </div>
                     <div class="player-item">
@@ -172,7 +181,7 @@
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Chips</h3>
+                        <h3 class="font h4 thrill-white">Lechrice</h3>
                     </div>
                     <div class="name">
                         <p class="thrill-gray">GRIGNY Paul</p>
@@ -184,7 +193,7 @@
                     </div>
                     <div class="social">
                         <a href="https://twitter.com/GrignyPaul">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                     </div>
                     <div class="player-item">
@@ -212,10 +221,10 @@
                     </div>
                     <div class="social">
                         <a href="https://twitter.com/BlkHunterAlpha">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                         <a href="https://www.twitch.tv/daanieldlm">
-                            <img src="/asset/img/icon/Twitch/white.png" alt="">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
                         </a>
                     </div>
                     <div class="player-item">
