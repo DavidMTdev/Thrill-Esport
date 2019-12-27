@@ -1,17 +1,17 @@
 <?php require_once("../../includes/header.php") ?>
 
 <section id="header">
-    <div class="jumbotron team-header call-of-duty">
+    <div class="jumbotron team-header fifa">
         <div class="shadow">
             <div class="container">
                 <div class="d-flex justify-content-center logo-heading">
-                    <img class="game-logo " src="/asset/img/fifa/background/background-fifa.jpg" alt="logo fifa">
+                    <img class="game-logo " src="/asset/img/fifa/logo/logo.png" alt="logo fifa">
                 </div>
                 <div class="d-flex justify-content-center">
                     <div class="position-relative">
                         <h1 class="font thrill-white h5 mb-4">Notre équipe fifa</h1>
                         <div class="arrow">
-                            <a href="/team/callofduty/#team">
+                            <a href="/team/fifa/#team">
                                 <img src="/asset/img/icon/64/arrow-white.png" alt="flèche vers le bas">
                             </a>
                         </div>
