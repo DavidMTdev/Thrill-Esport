@@ -251,6 +251,9 @@
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
+                        <a href="https://twitter.com/KuyrukS">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
                     </div>
                     <div class="player-item">
                         <img src="/asset/img/fortnite/skins/L27Ombre_Occulte.png" alt="">
