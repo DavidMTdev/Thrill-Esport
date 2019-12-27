@@ -25,10 +25,10 @@
                 <div class="row mt-5">
                     <div class="col d-flex justify-content-center">
                         <div class="card mb-4 shadow-sm">
-                            <img src="https://fakeimg.pl/250/3154a6/" width="100%" height="225">
+                            <img src="/asset/img/logo/v3/background-logo.png" width="100%" height="150">
                             <div class="card-body thrill-bg-light">
                                 <div class="text-center">
-                                    <div class="h2 thrill-blue">President</div>
+                                    <div class="h6 thrill-blue">President</div>
                                     <div class="thrill-white founder-name">Nicolas Lorioux</div>
                                 </div>
                             </div>
@@ -36,10 +36,10 @@
                     </div>
                     <div class="col d-flex justify-content-center">
                         <div class="card mb-4 shadow-sm">
-                            <img src="https://fakeimg.pl/250/3154a6/" width="100%" height="225">
+                            <img src="/asset/img/logo/v3/background-logo.png" width="100%" height="150">
                             <div class="card-body thrill-bg-light">
                                 <div class="text-center">
-                                    <div class="h2 thrill-blue">Vice-President</div>
+                                    <div class="h6 thrill-blue">Vice-President</div>
                                     <div class="thrill-white founder-name">David Teixeira</div>
                                 </div>
                             </div>
@@ -49,10 +49,10 @@
                 <div class="row mt-5">
                     <div class="col d-flex justify-content-center">
                         <div class="card mb-4 shadow-sm">
-                            <img src="https://fakeimg.pl/250/3154a6/" width="100%" height="225">
+                            <img src="/asset/img/logo/v3/background-logo.png" width="100%" height="150">
                             <div class="card-body thrill-bg-light">
                                 <div class="text-center">
-                                    <div class="h2 thrill-blue">Directeur eSporti</div>
+                                    <div class="h6 thrill-blue">Directeur eSportif</div>
                                     <div class="thrill-white founder-name">Erwan PINARD</div>
                                 </div>
                             </div>
@@ -60,10 +60,10 @@
                     </div>
                     <div class="col d-flex justify-content-center">
                         <div class="card mb-4 shadow-sm">
-                            <img src="https://fakeimg.pl/250/3154a6/" width="100%" height="225">
+                            <img src="/asset/img/logo/v3/background-logo.png" width="100%" height="150">
                             <div class="card-body thrill-bg-light">
                                 <div class="text-center">
-                                    <div class="h2 thrill-blue">Directeur Marketing</div>
+                                    <div class="h6 thrill-blue">Directeur Marketing</div>
                                     <div class="thrill-white founder-name">Nicolas Bento</div>
                                 </div>
                             </div>
@@ -71,10 +71,10 @@
                     </div>
                     <div class="col d-flex justify-content-center">
                         <div class="card mb-4 shadow-sm">
-                            <img src="https://fakeimg.pl/250/3154a6/" width="100%" height="225">
+                            <img src="/asset/img/logo/v3/background-logo.png" width="100%" height="150">
                             <div class="card-body thrill-bg-light">
                                 <div class="text-center">
-                                    <div class="h2 thrill-blue">Directeur Informatique</div>
+                                    <div class="h6 thrill-blue">Fondateur</div>
                                     <div class="thrill-white founder-name">Adrien Leib</div>
                                 </div>
                             </div>
@@ -142,7 +142,7 @@
         <h3 class="display-4 text-uppercase font-weight-bold thrill-blue">
             VALEURS
         </h3>
-        <p class="thrill-gray text-uppercase">nOS PRINCIPAUX VALEURS</p>
+        <p class="thrill-gray text-uppercase">Nos valeurs fondamentales</p>
     </div>
     <div class="container py-5">
         <div class="row">
