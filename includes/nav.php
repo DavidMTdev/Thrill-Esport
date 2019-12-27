@@ -22,7 +22,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="/team/fortnite/">Fortnite</a>
                         <a class="dropdown-item" href="/team/callofduty/">Call of Duty</a>
-                        <a class="dropdown-item" href="/team/callofduty/">Fifa</a>
+                        <a class="dropdown-item" href="/team/fifa/">Fifa</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
