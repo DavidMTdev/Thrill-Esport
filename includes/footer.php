@@ -1,36 +1,21 @@
 </main>
 
-<footer class="py-5 pt-md-5 border-top thrill-bg-blue">
-    <div class="row">
-        <div class="col-12 col-md text-center">
-            <h5 class="thrill-white">Menu</h5>
-            <ul class="list-unstyled text-small text-center">
-                <li><a class="thrill-light" href="#">A Propos</a></li>
-                <li><a class="thrill-light" href="#">Actualite</a></li>
-                <li><a class="thrill-light" href="#">Equipe</a></li>
-                <li><a class="thrill-light" href="#">Macths</a></li>
-                <li><a class="thrill-light" href="#">Palmares</a></li>
-                <li><a class="thrill-light" href="#">Sponsors</a></li>
-            </ul>
-        </div>
-        <?php if (false) : ?>
-            <div class="col-12 col-md text-center">
-                <h5 class="thrill-white">Partenaires</h5>
-                <ul class="list-unstyled text-small">
-                </ul>
+<footer class="py-4 pt-md-4 border-top thrill-bg-blue">
+    <div class="container">
+        <div class="row justify-content-between align-items-center">
+            <p class="thrill-light my-0 small">© 2019, THRILL ESPORT CLUB. Tous droits reservés.</p>
+            <div class="">
+                <a href="https://www.facebook.com/ThrillEC" class="mx-2">
+                    <img src="/asset/img/icon/Facebook/gray.png" alt="icon Facebook">
+                </a>
+                <a href="https://twitter.com/thrill_ec" class="mx-2">
+                    <img src="/asset/img/icon/Twitter/gray.png" alt="icon Twitter">
+                </a>
+                <a href="https://www.youtube.com/channel/UCObGReXVo3RZKE2iDbtDIMg/featured" class="mx-2">
+                    <img src="/asset/img/icon/Youtube/gray.png" alt="icon Youtube">
+                </a>
             </div>
-        <?php endif; ?>
-        <div class="col-12 col-md text-center">
-            <h5 class="thrill-white">A Propos</h5>
-            <ul class="list-unstyled text-small">
-                <li><a class="thrill-light" href="#">Objectif</a></li>
-                <li><a class="thrill-light" href="#">Contact</a></li>
-                <li><a class="thrill-light" href="#">Terms</a></li>
-            </ul>
-        </div>
-        <div class="col-12 col-md text-center">
-            <img class="mb-2" src="/asset/img/logo/v2/Logo_transparence_v2.png" alt="" width="128" height="128">
-            <small class="d-block mb-3 thrill-light">&copy; 2017-2019</small>
+            <a href="/legal/terms/" class="thrill-light small">Mentions légales</a>
         </div>
     </div>
 </footer>
