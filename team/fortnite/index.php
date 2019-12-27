@@ -46,7 +46,7 @@
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
-                        <a href="https://twitter.com/ImNezio">
+                        <a href="https://twitter.com/NezioThrill">
                             <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                     </div>
@@ -104,6 +104,9 @@
                     <div class="social">
                         <a href="https://twitter.com/FB_Hermes">
                             <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
+                        <a href="https://twitter.com/Thrill_Hermes">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
                         </a>
                     </div>
                     <div class="player-item">
@@ -229,6 +232,28 @@
                     </div>
                     <div class="player-item">
                         <img src="/asset/img/fortnite/skins/veinarde-2.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">Boy</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray">KuyruK Suleyman</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">joueur</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fortnite/skins/L27Ombre_Occulte.png" alt="">
                     </div>
                     <div class="line-item"></div>
                 </div>
