@@ -121,7 +121,7 @@
 <section id="ambitions">
     <div class="jumbotron-hidden">
         <div class="thrill-jumbotron thrill-jumbotron-right" style="
-                    background-image: url('/asset/img/background/about_page_1.jpg'); background-position: center; background-size: cover;">
+                    background-image: url('/asset/img/Banner/banner-background-2.jpeg'); background-position: center; background-size: cover; background-repeat: no-repeat;">
             <div class="container rotate-0-right">
                 <h3 class="display-4 text-uppercase font-weight-bold thrill-white">
                     AMBITIONS
