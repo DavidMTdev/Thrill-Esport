@@ -24,7 +24,7 @@
                     <p>Thrill eSport Club, fondée 28 mai 2019, est une association sous forme juridique de loi 1901. Fondée par 5 amis, voici notre histoire. </p>
                 </div>
                 <div>
-                    <a class="btn btn-blue" href="about.php#presentation" role="button">View details
+                    <a class="btn btn-blue" href="about.php#presentation" role="button">En savoir plus
                         &raquo;</a>
                 </div>
             </div>
@@ -36,7 +36,7 @@
                     <p>Thrill eSport Club, ayant pour objectif de naviguer sur plusieurs jeux ainsi que sur l’actualité eSport.</p>
                 </div>
                 <div>
-                    <a class="btn btn-blue" href="about.php#ambitions" role="button">View details &raquo;</a>
+                    <a class="btn btn-blue" href="about.php#ambitions" role="button">En savoir plus &raquo;</a>
                 </div>
             </div>
             <!-- /.col-lg-4 -->
@@ -49,7 +49,7 @@
                     <p>Sérieux</p>
                 </div>
                 <div>
-                    <a class="btn btn-blue" href="about.php#values" role="button">View details &raquo;</a>
+                    <a class="btn btn-blue" href="about.php#values" role="button">En savoir plus &raquo;</a>
                 </div>
                 <!-- /.col-lg-4 -->
             </div>
@@ -82,7 +82,7 @@
                             neque nihil aspernatur, impedit animi, at consectetur? Reiciendis ratione culpa officia?
                             Assumenda saepe quo deleniti aliquam.</p>
                         <div class="d-flex justify-content-end pr-4">
-                            <a class="btn btn-blue" href="games.html" role="button">View details</a>
+                            <a class="btn btn-blue" href="games.html" role="button">En savoir plus</a>
                         </div>
                     </div>
                     <div class="col-md-8 themed-grid-col px-0">
