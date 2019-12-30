@@ -1,5 +1,5 @@
 let x = setInterval(function() {
-	let count = new Date('jan 1,2020 00:00:00').getTime();
+	let count = new Date('feb 1,2020 00:00:00').getTime();
 
 	let now = new Date().getTime();
 	let d = count - now;
