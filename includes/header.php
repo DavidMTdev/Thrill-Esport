@@ -28,13 +28,13 @@
 
     <?php if ($_SERVER["SCRIPT_NAME"] == "/index.php") : ?>
         <link rel="stylesheet" href="/asset/css/home.css">
-        <title>Thrill Esport Club</title>
+        <title>Accueil - Thrill eSport Club</title>
     <?php elseif ($_SERVER["SCRIPT_NAME"] == "/about.php") : ?>
         <link rel="stylesheet" href="/asset/css/about.css">
-        <title>La Présentation De La Structure</title>
+        <title>Club - Thrill eSport Club</title>
     <?php elseif ($_SERVER["SCRIPT_NAME"] == "/team/fortnite/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/callofduty/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/fifa/index.php") : ?>
         <link rel="stylesheet" href="/asset/css/team.css">
-        <title>Nos Equipe</title>
+        <title>Équipes - Thrill eSport Club</title>
     <?php elseif ($_SERVER["SCRIPT_NAME"] == "/dev/development.php") : ?>
         <link rel="stylesheet" href="/asset/css/development.css">
         <title>En Développement</title>
