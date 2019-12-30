@@ -5,6 +5,12 @@
         <div class="row justify-content-between align-items-center">
             <p class="thrill-light my-0 small">© 2019, THRILL ESPORT CLUB. Tous droits reservés.</p>
             <div class="">
+                <a href="https://www.linkedin.com/company/thrill-ec" class="mx-2">
+                    <img src="/asset/img/icon/LinkedIn/gray.png" alt="icon LinkedIn">
+                </a>
+                <a href="https://www.instagram.com/thrillec/" class="mx-2">
+                    <img src="/asset/img/icon/Instagram/gray.png" alt="icon Instagram">
+                </a>
                 <a href="https://www.facebook.com/ThrillEC" class="mx-2">
                     <img src="/asset/img/icon/Facebook/gray.png" alt="icon Facebook">
                 </a>
