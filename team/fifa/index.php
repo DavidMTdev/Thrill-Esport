@@ -85,7 +85,7 @@
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Moha_951</h3>
+                        <h3 class="font h4 thrill-white">Moha__951</h3>
                     </div>
                     <div class="name">
                         <p class="thrill-gray">YAGOUBI Mohamed</p>
