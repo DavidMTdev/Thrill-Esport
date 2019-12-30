@@ -102,11 +102,8 @@
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
-                        <a href="https://twitter.com/FB_Hermes">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
                         <a href="https://twitter.com/Thrill_Hermes">
-                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                     </div>
                     <div class="player-item">
