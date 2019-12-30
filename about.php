@@ -107,6 +107,14 @@
                 <img src="/asset/img/logo/v2/Logo_transparence_v2.png" alt="" width="300" height="300">
             </div>
         </div>
+        <div class="row py-4">
+            <div class="col-md-4 d-flex justify-content-center">
+                <img src="/asset/img/logo/v3/thrill-esport-logo.png" alt="" height="300">
+            </div>
+            <div class="col-md-8 d-flex align-items-center">
+                <p class="thrill-gray text-justify pt-3">Pour 2020, nous avons décidé d’avoir un design un peu plus professionnel pour l’association car notre ancien logo faisait un peu trop mascotte. C’est dans ce sens que nous avons décidé de changer complètement de design. Voici notre logo pour l’année 2020.</p>
+            </div>
+        </div>
     </div>
     <div class="container">
         <h4 class="h3 text-uppercase font-weight-bold thrill-blue ">
