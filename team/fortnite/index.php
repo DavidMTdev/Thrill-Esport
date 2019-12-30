@@ -9,7 +9,7 @@
                 </div>
                 <div class="d-flex justify-content-center">
                     <div class="position-relative">
-                        <h1 class="font thrill-white h5 mb-4">Notre equipe fortnite</h1>
+                        <h1 class="font thrill-white h5 mb-4">Notre équipe fortnite</h1>
                         <div class="arrow">
                             <a href="/team/fortnite/#team">
                                 <img src="/asset/img/icon/64/arrow-white.png" alt="flèche vers le bas">
