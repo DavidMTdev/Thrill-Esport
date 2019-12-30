@@ -2,12 +2,12 @@
 
 <section id="header">
     <div class="jumbotron team-header fortnite">
-        <div class="shadow">
+        <div class="shadow d-flex align-items-end">
             <div class="container">
                 <div class="d-flex justify-content-center logo-heading">
                     <img class="game-logo " src="/asset/img/fortnite/logo/fortnite.png" alt="logo fortnite">
                 </div>
-                <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center" style="height: 100px;">
                     <div class="position-relative">
                         <h1 class="font thrill-white h5 mb-4">Notre équipe fortnite</h1>
                         <div class="arrow">

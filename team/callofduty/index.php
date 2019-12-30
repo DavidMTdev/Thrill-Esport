@@ -2,12 +2,12 @@
 
 <section id="header">
     <div class="jumbotron team-header call-of-duty">
-        <div class="shadow">
+        <div class="shadow d-flex align-items-end">
             <div class="container">
                 <div class="d-flex justify-content-center logo-heading">
                     <img class="game-logo " src="/asset/img/callofduty/logo/Call-of-Duty-Modern-Warfare-Transparent-Images-PNG.png" alt="logo call of duty">
                 </div>
-                <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center" style="height: 100px;">
                     <div class="position-relative">
                         <h1 class="font thrill-white h5 mb-4">Notre équipe call of duty</h1>
                         <div class="arrow">
