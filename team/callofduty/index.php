@@ -110,6 +110,34 @@
                 </div>
             </div>
             <!-- /.col -->
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">AzHeR</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray">Weiss William</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">coach</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                        <a href="https://twitter.com/AzHeR38490">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCfHjwJL943qq7BSm7hfg8bw">
+                            <img src="/asset/img/icon/Youtube/white.png" alt="icon Youtube">
+                        </a>
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/callofduty/gun-cod-1.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
         </div>
         <!-- /.row -->
     </div>
