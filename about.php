@@ -5,7 +5,7 @@
         <h3 class="display-4 text-uppercase font-weight-bold thrill-blue">
             PRESENTATION
         </h3>
-        <p class="thrill-gray text-uppercase">une Scructure RICHE D’HISTOIRE</p>
+        <p class="thrill-gray text-uppercase">une Structure RICHE D’HISTOIRE</p>
     </div>
     <div class="container">
         <h4 class="h3 text-uppercase font-weight-bold thrill-blue ">
@@ -134,7 +134,7 @@
                 <h3 class="display-4 text-uppercase font-weight-bold thrill-white">
                     AMBITIONS
                 </h3>
-                <p class="thrill-blue text-uppercase">une Scructure pleine d’ambition</p>
+                <p class="thrill-blue text-uppercase">une Structure pleine d’ambition</p>
             </div>
             <div class="container rotate-0-right py-4">
                 <p class="thrill-white text-justify pt-3">Thrill EC, ayant pour objectif de naviguer sur plusieurs jeux ainsi que sur l’actualité eSport, est ouvert à toutes propositions sérieuses afin de pouvoir encadrer et accompagner les joueurs ainsi que les bénévoles tout au long de notre voyage.</p>
