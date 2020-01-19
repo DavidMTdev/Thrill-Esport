@@ -234,6 +234,37 @@
                 </div>
             </div>
             <!-- /.col -->
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">NRZ</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray">Pedro Rui</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">joueur</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                        <a href="https://twitter.com/nrz_ftn">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
+                        <a href="https://www.twitch.tv/nrzftn/">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon Twitch">
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCHBKb59dnErpXx2qI-hJybw">
+                            <img src="/asset/img/icon/Youtube/white.png" alt="icon Youtube">
+                        </a>
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fortnite/skins/tezcalt.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
         </div>
         <!-- /.row -->
     </div>
