@@ -1,11 +1,11 @@
 <?php require_once("function.php") ?>
 
 <!doctype html>
-<html lang="fr">
+<html lang="fr" xmlns:og="http://ogp.me/ns#">
 
 <head>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
+    <meta charset=" utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <?php if ($_SERVER["SCRIPT_NAME"] == "/index.php") : ?>
         <meta name="description" content="Thrill eSport Club est une structure esportive sous loi 1901, sur les jeux : FIFA, COD, FORTNITE.." />
@@ -15,6 +15,7 @@
         <meta property="og:description" content="Thrill eSport Club est une structure esportive sous loi 1901, sur les jeux : FIFA, COD, FORTNITE.." />
         <meta property="og:url" content="https://thrillesportclub.fr/" />
         <meta property="og:site_name" content="Thrill Esport Club" />
+        <meta property="og:image" content="https://thrillesportclub.fr/asset/img/logo/v3/thrill-esport-logo.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:description" content="Thrill eSport Club est une structure esportive sous loi 1901, sur les jeux : FIFA, COD, FORTNITE.." />
         <meta name="twitter:title" content="Thrill Esport Club" />
