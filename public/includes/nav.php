@@ -23,6 +23,7 @@
                         <a class="dropdown-item" href="/team/fortnite/">Fortnite</a>
                         <a class="dropdown-item" href="/team/callofduty/">Call of Duty</a>
                         <a class="dropdown-item" href="/team/fifa/">Fifa</a>
+                        <a class="dropdown-item" href="/team/rocketleague/">Rocket League</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">

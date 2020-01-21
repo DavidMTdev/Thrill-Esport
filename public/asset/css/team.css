@@ -18,6 +18,10 @@
 	background-image: url("/asset/img/fifa/background/background-fifa.jpg");
 }
 
+.rocket-league {
+	background-image: url("/asset/img/rocket-league/background/wallpaper-rocket-league.jpg");
+}
+
 .shadow {
 	position: absolute;
 	top: 0;
