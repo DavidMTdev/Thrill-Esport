@@ -113,9 +113,6 @@
                 </div>
             </div>
             <!-- /.col -->
-        </div>
-        <!-- /.row -->
-        <div class="row">
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
@@ -178,37 +175,36 @@
                 </div>
             </div>
             <!-- /.col -->
-            <div class="row">
-                <div class="col-md-4 mb-5">
-                    <div class="card-player">
-                        <div class="pseudo">
-                            <h3 class="font h4 thrill-white">Alpha</h3>
-                        </div>
-                        <div class="name">
-                            <p class="thrill-gray">DELFIM Daniel</p>
-                        </div>
-                        <div class="role">
-                            <div class="line-left"></div>
-                            <h4 class="font h6">joueur</h4>
-                            <div class="line-bottom"></div>
-                        </div>
-                        <div class="social">
-                            <a href="https://twitter.com/BlkHunterAlpha">
-                                <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                            </a>
-                            <a href="https://www.twitch.tv/daanieldlm">
-                                <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
-                            </a>
-                        </div>
-                        <div class="player-item">
-                            <img src="/asset/img/fortnite/skins/veinarde-2.png" alt="">
-                        </div>
-                        <div class="line-item"></div>
+
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">Alpha</h3>
                     </div>
+                    <div class="name">
+                        <p class="thrill-gray">DELFIM Daniel</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">joueur</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                        <a href="https://twitter.com/BlkHunterAlpha">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
+                        <a href="https://www.twitch.tv/daanieldlm">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
+                        </a>
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fortnite/skins/veinarde-2.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
                 </div>
-                <!-- /.col -->
             </div>
-            <!-- /.row -->
+            <!-- /.col -->
+
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
