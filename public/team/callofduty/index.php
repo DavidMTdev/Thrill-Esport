@@ -35,34 +35,6 @@
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Wisko</h3>
-                    </div>
-                    <div class="name">
-                        <p class="thrill-gray">FIGUEIREDO Kévin</p>
-                    </div>
-                    <div class="role">
-                        <div class="line-left"></div>
-                        <h4 class="font h6">capitaine</h4>
-                        <div class="line-bottom"></div>
-                    </div>
-                    <div class="social">
-                        <a href="https://twitter.com/WisKoDecerto">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
-                        <a href="https://www.twitch.tv/mrwisko/">
-                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
-                        </a>
-                    </div>
-                    <div class="player-item">
-                        <img src="/asset/img/callofduty/gun-cod-2.png" alt="">
-                    </div>
-                    <div class="line-item"></div>
-                </div>
-            </div>
-            <!-- /.col -->
-            <div class="col-md-4 mb-5">
-                <div class="card-player">
-                    <div class="pseudo">
                         <h3 class="font h4 thrill-white">AzHeR</h3>
                     </div>
                     <div class="name">
