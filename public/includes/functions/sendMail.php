@@ -18,7 +18,7 @@ $visible = false;
 if (isset($submit)) {
     try {
         //Server settings
-        // $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
+        $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
         $phpMail->isSMTP();                                            // Send using SMTP
         $phpMail->Host       = 'smtp.ionos.fr';                    // Set the SMTP server to send through
         $phpMail->SMTPAuth   = true;                                   // Enable SMTP authentication
