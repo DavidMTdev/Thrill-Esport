@@ -101,6 +101,14 @@ h6,
 	color: #16244b;
 }
 
+.bold {
+	font-weight: bold;
+}
+
+.bold-500 {
+	font-weight: 500;
+}
+
 /*      Footer      */
 
 footer a.thrill-light:hover {
