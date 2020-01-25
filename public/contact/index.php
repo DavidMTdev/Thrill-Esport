@@ -67,7 +67,7 @@
                         <label class="thrill-gray bold-500" for="message">Votre message (<span class="thrill-blue">*</span>)</label>
                         <textarea class="form-control" id="message" rows="3" name="message"></textarea>
                     </div>
-                    <button type="submit" class="btn btn-blue float-right">Envoyer</button>
+                    <button type="submit" class="btn btn-blue float-right" name="submit">Envoyer</button>
                 </form>
             </div>
         </div>
