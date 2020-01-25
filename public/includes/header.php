@@ -54,6 +54,8 @@
     <?php elseif ($_SERVER["SCRIPT_NAME"] == "/dev/development.php") : ?>
         <link rel="stylesheet" href="/asset/css/development.css">
         <title>En Développement</title>
+    <?php elseif ($_SERVER["SCRIPT_NAME"] == "/contact/") : ?>
+        <title>Contact - Thrill eSport Club</title>
     <?php endif; ?>
 
 </head>

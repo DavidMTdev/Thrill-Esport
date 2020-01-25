@@ -72,7 +72,5 @@
             </div>
         </div>
     </div>
-
-    <?php var_dump($email) ?>
 </section>
 <?php require_once("../includes/footer.php") ?>
