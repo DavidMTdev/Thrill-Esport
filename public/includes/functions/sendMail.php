@@ -25,7 +25,7 @@ if (isset($submit)) {
         $phpMail->Username   = 'contact@thrillesportclub.fr';                     // SMTP username
         $phpMail->Password   = '$*FG7tp2al#jGkv45%4sEn';                               // SMTP password
         $phpMail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
-        $phpMail->Port       = 465;                                    // TCP port to connect to
+        $phpMail->Port       =     587;                                    // TCP port to connect to
 
         if ($name == "") {
             $msg =  "Veulliez mettre votre nom.";
