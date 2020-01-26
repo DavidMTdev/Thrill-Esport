@@ -92,27 +92,28 @@
             logo
         </h4>
         <div class="row py-4">
-            <div class="col-md-4 d-flex justify-content-center">
-                <img src="/asset/img/logo/v1/Logo_v1_800x800.png" alt="" width="300" height="300">
-            </div>
             <div class="col-md-8 d-flex align-items-center">
                 <p class="thrill-gray text-justify pt-3">La dénomination sociale nous est venue du mot français « Frissons ». Thrill eSport Club a pour image de logo une tête de dinosaure. Cette tête de dinosaure nous a permis de bien retracer l’idée du « frisson » et donc a été adopté à l’unanimité par les 5 membres fondateurs de l’association. Voici la première version de l’image :</p>
             </div>
+            <div class="col-md-4 d-flex justify-content-center">
+                <img src="/asset/img/logo/v1/Logo_v1_800x800.png" alt="" width="300" height="300">
+            </div>
         </div>
         <div class="row py-4">
-            <div class="col-md-8 d-flex align-items-center">
+            <div class="col-md-8 d-flex align-items-center order-md-12">
                 <p class="thrill-gray text-justify pt-3">Malheureusement par manque de lisibilité au niveau de la création marketing digital ainsi que pour la partie commerciale de notre association, nous avons donc dû opter pour la simplification de l’image afin de lui permettre de devenir un logo lisible sur tous les documents marketing ainsi que sur toute la partie commerciale.</p>
             </div>
-            <div class="col-md-4 d-flex justify-content-center">
+            <div class="col-md-4 d-flex justify-content-center order-md-1">
                 <img src="/asset/img/logo/v2/Logo_transparence_v2.png" alt="" width="300" height="300">
             </div>
+
         </div>
         <div class="row py-4">
-            <div class="col-md-4 d-flex justify-content-center">
-                <img src="/asset/img/logo/v3/thrill-esport-logo.png" alt="" height="300">
-            </div>
             <div class="col-md-8 d-flex align-items-center">
                 <p class="thrill-gray text-justify pt-3">Pour 2020, nous avons décidé d’avoir un design un peu plus professionnel pour l’association car notre ancien logo faisait un peu trop mascotte. C’est dans ce sens que nous avons décidé de changer complètement de design. Voici notre logo pour l’année 2020.</p>
+            </div>
+            <div class="col-md-4 d-flex justify-content-center">
+                <img src="/asset/img/logo/v3/thrill-esport-logo.png" alt="" height="300">
             </div>
         </div>
     </div>
