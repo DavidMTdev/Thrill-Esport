@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg fixed-top py-1 navbar-dark PaybAck thrill-bg-blue thrill-nav">
     <div class="container d-flex flex-md-row justify-content-between">
-        <a class="navbar-brand thrill-white align-center" href="/">
-            <img src="/asset/img/logo/v3/thrill-esport-logo.png" height="32" class="d-inline-block align-top" alt="Thrill Esport Culb Logo official">
-            Thrill Esport Club
+        <a class="navbar-brand thrill-white align-center d-inline-flex " href="/">
+            <img src="/asset/img/logo/v3/thrill-esport-logo.png" height="32" class="" alt="Thrill Esport Culb Logo official">
+            <span class="collapse navbar-collapse">Thrill Esport Club</span>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
