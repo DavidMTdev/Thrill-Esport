@@ -35,87 +35,6 @@
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Neziõ</h3>
-                    </div>
-                    <div class="name">
-                        <p class="thrill-gray">CAYET Clément</p>
-                    </div>
-                    <div class="role">
-                        <div class="line-left"></div>
-                        <h4 class="font h6">joueur</h4>
-                        <div class="line-bottom"></div>
-                    </div>
-                    <div class="social">
-                        <a href="https://twitter.com/NezioThrill">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
-                    </div>
-                    <div class="player-item">
-                        <img src="/asset/img/fortnite/skins/cannonniere-de-la-brute-2.png" alt="">
-                    </div>
-                    <div class="line-item"></div>
-                </div>
-            </div>
-            <!-- /.col -->
-            <div class="col-md-4 mb-5">
-                <div class="card-player">
-                    <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Julius</h3>
-                    </div>
-                    <div class="name">
-                        <p class="thrill-gray">PERROT William</p>
-                    </div>
-                    <div class="role">
-                        <div class="line-left"></div>
-                        <h4 class="font h6">joueur</h4>
-                        <div class="line-bottom"></div>
-                    </div>
-                    <div class="social">
-                        <a href="https://twitter.com/SocreamD">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
-                        <a href="https://www.twitch.tv/thrill_fiish">
-                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
-                        </a>
-                        <a href="https://www.youtube.com/channel/UChTyryyBsdz2T8mh7oBzR8w">
-                            <img src="/asset/img/icon/Youtube/white.png" alt="icon youtube">
-                        </a>
-                    </div>
-                    <div class="player-item">
-                        <img src="/asset/img/fortnite/skins/peste-2.png" alt="">
-                    </div>
-                    <div class="line-item"></div>
-                </div>
-            </div>
-            <!-- /.col -->
-            <div class="col-md-4 mb-5">
-                <div class="card-player">
-                    <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Hermes</h3>
-                    </div>
-                    <div class="name">
-                        <p class="thrill-gray">LANGEARD Tom</p>
-                    </div>
-                    <div class="role">
-                        <div class="line-left"></div>
-                        <h4 class="font h6">joueur</h4>
-                        <div class="line-bottom"></div>
-                    </div>
-                    <div class="social">
-                        <a href="https://twitter.com/Thrill_Hermes">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
-                    </div>
-                    <div class="player-item">
-                        <img src="/asset/img/fortnite/skins/mecano-2.png" alt="">
-                    </div>
-                    <div class="line-item"></div>
-                </div>
-            </div>
-            <!-- /.col -->
-            <div class="col-md-4 mb-5">
-                <div class="card-player">
-                    <div class="pseudo">
                         <h3 class="font h4 thrill-white">Djo</h3>
                     </div>
                     <div class="name">
@@ -147,10 +66,10 @@
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Rehy</h3>
+                        <h3 class="font h4 thrill-white">Fish</h3>
                     </div>
                     <div class="name">
-                        <p class="thrill-gray">DE OLIVEIRA Estéban</p>
+                        <p class="thrill-gray">PERROT William</p>
                     </div>
                     <div class="role">
                         <div class="line-left"></div>
@@ -158,53 +77,23 @@
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
-                        <a href="https://twitter.com/DLVR78">
+                        <a href="https://twitter.com/SocreamD">
                             <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
-                        <a href="https://www.twitch.tv/rehyou78">
+                        <a href="https://www.twitch.tv/thrill_fiish">
                             <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
                         </a>
-                        <a href="https://www.youtube.com/channel/UCNTxzaNOI35uILOHNBBEC8w">
+                        <a href="https://www.youtube.com/channel/UChTyryyBsdz2T8mh7oBzR8w">
                             <img src="/asset/img/icon/Youtube/white.png" alt="icon youtube">
                         </a>
                     </div>
                     <div class="player-item">
-                        <img src="/asset/img/fortnite/skins/soldat-laineux-2.png" alt="">
+                        <img src="/asset/img/fortnite/skins/peste-2.png" alt="">
                     </div>
                     <div class="line-item"></div>
                 </div>
             </div>
             <!-- /.col -->
-
-            <div class="col-md-4 mb-5">
-                <div class="card-player">
-                    <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Alpha</h3>
-                    </div>
-                    <div class="name">
-                        <p class="thrill-gray">DELFIM Daniel</p>
-                    </div>
-                    <div class="role">
-                        <div class="line-left"></div>
-                        <h4 class="font h6">joueur</h4>
-                        <div class="line-bottom"></div>
-                    </div>
-                    <div class="social">
-                        <a href="https://twitter.com/BlkHunterAlpha">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
-                        <a href="https://www.twitch.tv/daanieldlm">
-                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
-                        </a>
-                    </div>
-                    <div class="player-item">
-                        <img src="/asset/img/fortnite/skins/veinarde-2.png" alt="">
-                    </div>
-                    <div class="line-item"></div>
-                </div>
-            </div>
-            <!-- /.col -->
-
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
