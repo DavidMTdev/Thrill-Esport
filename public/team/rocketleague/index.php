@@ -35,7 +35,7 @@
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Spectro</h3>
+                        <h3 class="font h4 thrill-white">Nawre</h3>
                     </div>
                     <div class="name">
                         <p class="thrill-gray">Pinard Erwan</p>
@@ -46,7 +46,7 @@
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
-                        <a href="https://twitter.com/Thrill_Spectro">
+                        <a href="https://twitter.com/Thrill_Nawre">
                             <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
                         </a>
                     </div>
