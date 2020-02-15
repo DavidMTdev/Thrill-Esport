@@ -31,7 +31,7 @@
                     <dd class="col-sm-9">Thrill eSport Club – <a href="mailto:contact@thrillesportclub.fr">contact@thrillesportclub.fr</a></dd>
 
                     <dt class="col-sm-3 thrill-blue">Hébergeur :</dt>
-                    <dd class="col-sm-9">1&1 IONIS</dd>
+                    <dd class="col-sm-9">1&1 IONOS</dd>
                 </dl>
             </div>
             <!-- /.row -->
