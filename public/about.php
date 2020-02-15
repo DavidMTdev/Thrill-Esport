@@ -158,7 +158,7 @@
             <div class="col-lg-4 text-center">
                 <img class="rounded-circle" src="/asset/img/background/about_page_2.jpg" alt="Placeholder: 140x140" width="200" height="200">
                 <h2 class="thrill-blue pt-5">FIDELITE</h2>
-                <p class="pt-5 thrill-gray">La fidélité mutuellement est une valeur fondamentale. Cela nous permettra de grandir en tant qu’association tout en permettant de faire grandir les parties prenantes qui collaboreront avec nous. </p>
+                <p class="pt-5 thrill-gray">La fidélité mutuelle est une valeur fondamentale. Cela nous permettra de grandir en tant qu’association tout en permettant de faire grandir les parties prenantes qui collaboreront avec nous. </p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4 text-center">
