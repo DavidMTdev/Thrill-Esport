@@ -35,81 +35,6 @@
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Pepe</h3>
-                    </div>
-                    <div class="name">
-                        <p class="thrill-gray">DE OLIVEIRA Pedro</p>
-                    </div>
-                    <div class="role">
-                        <div class="line-left"></div>
-                        <h4 class="font h6">joueur</h4>
-                        <div class="line-bottom"></div>
-                    </div>
-                    <div class="social">
-                        <a href="https://twitter.com/pepedeoliveira">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
-                    </div>
-                    <div class="player-item">
-                        <img src="/asset/img/fifa/benfica.png" alt="">
-                    </div>
-                    <div class="line-item"></div>
-                </div>
-            </div>
-            <!-- /.col -->
-            <div class="col-md-4 mb-5">
-                <div class="card-player">
-                    <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Pepito-787</h3>
-                    </div>
-                    <div class="name">
-                        <p class="thrill-gray">AUDOT Florentin</p>
-                    </div>
-                    <div class="role">
-                        <div class="line-left"></div>
-                        <h4 class="font h6">joueur</h4>
-                        <div class="line-bottom"></div>
-                    </div>
-                    <div class="social">
-                        <a href="https://twitter.com/Flo_78700">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
-                    </div>
-                    <div class="player-item">
-                        <img src="/asset/img/fifa/liverpool.png" alt="">
-                    </div>
-                    <div class="line-item"></div>
-                </div>
-            </div>
-            <!-- /.col -->
-            <div class="col-md-4 mb-5">
-                <div class="card-player">
-                    <div class="pseudo">
-                        <h3 class="font h4 thrill-white">Moha__951</h3>
-                    </div>
-                    <div class="name">
-                        <p class="thrill-gray">YAGOUBI Mohamed</p>
-                    </div>
-                    <div class="role">
-                        <div class="line-left"></div>
-                        <h4 class="font h6">joueur</h4>
-                        <div class="line-bottom"></div>
-                    </div>
-                    <div class="social">
-                        <a href="https://twitter.com/Mohaygb951">
-                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
-                        </a>
-                    </div>
-                    <div class="player-item">
-                        <img src="/asset/img/fifa/lyon.png" alt="">
-                    </div>
-                    <div class="line-item"></div>
-                </div>
-            </div>
-            <!-- /.col -->
-            <div class="col-md-4 mb-5">
-                <div class="card-player">
-                    <div class="pseudo">
                         <h3 class="font h4 thrill-white">iiZzy 11</h3>
                     </div>
                     <div class="name">
@@ -155,6 +80,31 @@
                     </div>
                     <div class="player-item">
                         <img src="/asset/img/fifa/arsenal.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">Toniodk9</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray"></p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">joueur</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                        <a href="https://twitter.com/TonyBouchard6">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fifa/om.png" alt="">
                     </div>
                     <div class="line-item"></div>
                 </div>
