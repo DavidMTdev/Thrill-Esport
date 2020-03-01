@@ -91,7 +91,7 @@
                         <h3 class="font h4 thrill-white">Toniodk9</h3>
                     </div>
                     <div class="name">
-                        <p class="thrill-gray"></p>
+                        <p class="thrill-gray">Bouchard Tony</p>
                     </div>
                     <div class="role">
                         <div class="line-left"></div>
