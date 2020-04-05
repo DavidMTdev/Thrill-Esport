@@ -22,6 +22,10 @@
 	background-image: url("/asset/img/rocket-league/background/wallpaper-rocket-league.jpg");
 }
 
+.r6 {
+	background-image: url("/asset/img/r6/background/bg-r6.jpg");
+}
+
 .shadow {
 	position: absolute;
 	top: 0;

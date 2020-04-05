@@ -48,7 +48,7 @@
     <?php elseif ($_SERVER["SCRIPT_NAME"] == "/about.php") : ?>
         <link rel="stylesheet" href="/asset/css/about.css">
         <title>Club - Thrill eSport Club</title>
-    <?php elseif ($_SERVER["SCRIPT_NAME"] == "/team/fortnite/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/callofduty/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/fifa/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/rocketleague/index.php") : ?>
+    <?php elseif ($_SERVER["SCRIPT_NAME"] == "/team/fortnite/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/callofduty/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/fifa/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/rocketleague/index.php" || $_SERVER["SCRIPT_NAME"] == "/team/r6/index.php") : ?>
         <link rel="stylesheet" href="/asset/css/team.css">
         <title>Équipes - Thrill eSport Club</title>
     <?php elseif ($_SERVER["SCRIPT_NAME"] == "/dev/development.php") : ?>
