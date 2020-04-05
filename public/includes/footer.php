@@ -20,6 +20,12 @@
                 <a href="https://www.youtube.com/channel/UCObGReXVo3RZKE2iDbtDIMg/featured" class="mx-2">
                     <img src="/asset/img/icon/Youtube/gray.png" alt="icon Youtube">
                 </a>
+                <a href="https://www.twitch.tv/thrillecstream" class="mx-2">
+                    <img src="/asset/img/icon/Twitch/gray.png" alt="icon Twitch">
+                </a>
+                <a href="https://discord.gg/qFTQHtn" class="mx-2">
+                    <img src="/asset/img/icon/Discord/gray.png" alt="icon Discord">
+                </a>
             </div>
             <a href="/legal/terms/" class="thrill-light small">Mentions légales</a>
         </div>
