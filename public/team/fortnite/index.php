@@ -42,7 +42,7 @@
                     </div>
                     <div class="role">
                         <div class="line-left"></div>
-                        <h4 class="font h6">capitaine</h4>
+                        <h4 class="font h6">Manager</h4>
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
@@ -58,6 +58,28 @@
                     </div>
                     <div class="player-item">
                         <img src="/asset/img/fortnite/skins/jade-la-rouge-2.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">Toad</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray">Cuddy Benjamin</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">coach</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fortnite/skins/colora-2.png" alt="">
                     </div>
                     <div class="line-item"></div>
                 </div>
@@ -94,6 +116,10 @@
                 </div>
             </div>
             <!-- /.col -->
+        </div>
+        <!-- /.row -->
+
+        <div class="row">
             <div class="col-md-4 mb-5">
                 <div class="card-player">
                     <div class="pseudo">
@@ -114,6 +140,98 @@
                     </div>
                     <div class="player-item">
                         <img src="/asset/img/fortnite/skins/L27Ombre_Occulte.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">Nox</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray">Bonnet Noa</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">Joueur</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fortnite/skins/cannonniere-de-la-brute-2.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">T0xy4</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray">Zbinden Hugo</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">joueur</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fortnite/skins/mecano-2.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+
+        <div class="row">
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">Ennz</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray">Lenser Enzo</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">Joueur</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fortnite/skins/soldat-d-elite-2.png" alt="">
+                    </div>
+                    <div class="line-item"></div>
+                </div>
+            </div>
+            <!-- /.col -->
+            <div class="col-md-4 mb-5">
+                <div class="card-player">
+                    <div class="pseudo">
+                        <h3 class="font h4 thrill-white">Zllyiaa</h3>
+                    </div>
+                    <div class="name">
+                        <p class="thrill-gray">Bottega Préscillia</p>
+                    </div>
+                    <div class="role">
+                        <div class="line-left"></div>
+                        <h4 class="font h6">Joueur</h4>
+                        <div class="line-bottom"></div>
+                    </div>
+                    <div class="social">
+                    </div>
+                    <div class="player-item">
+                        <img src="/asset/img/fortnite/skins/veinarde-2.png" alt="">
                     </div>
                     <div class="line-item"></div>
                 </div>
