@@ -77,6 +77,9 @@
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
+                        <a href="https://www.twitch.tv/toadmarley">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon twitch">
+                        </a>
                     </div>
                     <div class="player-item">
                         <img src="/asset/img/fortnite/skins/colora-2.png" alt="">
@@ -159,6 +162,12 @@
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
+                        <a href="https://twitter.com/NoxFTN">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
+                        <a href="https://t.co/DxabgpMDOs?amp=1">
+                            <img src="/asset/img/icon/Youtube/white.png" alt="icon Youtube">
+                        </a>
                     </div>
                     <div class="player-item">
                         <img src="/asset/img/fortnite/skins/cannonniere-de-la-brute-2.png" alt="">
@@ -199,7 +208,7 @@
                         <h3 class="font h4 thrill-white">Ennz</h3>
                     </div>
                     <div class="name">
-                        <p class="thrill-gray">Lenser Enzo</p>
+                        <p class="thrill-gray">Lenoir Enzo</p>
                     </div>
                     <div class="role">
                         <div class="line-left"></div>
@@ -229,6 +238,12 @@
                         <div class="line-bottom"></div>
                     </div>
                     <div class="social">
+                        <a href="https://twitter.com/LyiaahTv">
+                            <img src="/asset/img/icon/Twitter/white.png" alt="icon twitter">
+                        </a>
+                        <a href="https://www.twitch.tv/zllyiaah_tv">
+                            <img src="/asset/img/icon/Twitch/white.png" alt="icon Twitch">
+                        </a>
                     </div>
                     <div class="player-item">
                         <img src="/asset/img/fortnite/skins/veinarde-2.png" alt="">
